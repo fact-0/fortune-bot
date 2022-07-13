@@ -1,0 +1,23 @@
+{
+  "name": "sora-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjdskagjs1/sora-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjdskagjs1/sora-bot/issues"
+  },
+  "homepage": "https://github.com/wjdskagjs1/sora-bot2#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
